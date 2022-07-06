@@ -1,0 +1,106 @@
+body { 
+	background-color: #FFFFFF;
+	font-weight: normal;
+	font-family: Helvetica, sans-serif;
+}
+
+.menu {
+	background-color: #537D95;
+	top: 0px;
+	bottom: 0px;
+    right: 85%; 
+    left: 0px;
+    text-align: left;
+    position: fixed;
+    padding-left: 5px;
+    border: 2px solid;
+    padding-top: 25px;
+    border-color: black;
+    
+   	
+}
+
+.course_title {
+	background-color: #DAF7A6;
+	top: 0%;
+	bottom: 78%;
+    right: 40%;
+    left: 15%;
+	text-align: center;
+    border: solid;
+    position: absolute;
+    padding: 10px;
+    padding-right: 85px; 
+		
+}
+
+.student_contact {
+	background-color: #4391BE;
+	top: 0%;
+	bottom: 78%;
+    right: 0%;
+    left: 57.3%;
+	text-align: center;
+    border: solid;
+    position: absolute;
+    padding: 10px;
+    padding-right: 85px; 
+
+}
+
+.picture {
+	background-color: #6F8E9F;
+	top: 22%;
+	bottom: 295px;
+    right: 42.45%;
+	left: 15%; 
+    border: solid;
+    border: 2px solid;
+    position: fixed;
+    border-color: black;
+    text-align: center;
+   
+
+}
+
+ .about_me {
+	background-color: #40728F;
+	top: 59%;
+	bottom: 10%;
+	right: 42.45%;
+	left: 15%;
+    padding-left: 5px;
+    position: fixed;
+    border: 2px solid;
+    text-align: left;
+	
+}
+
+.description {
+	background-color: white;
+	top: 22%;
+	bottom: 10%;
+	right: 0%;
+	left: 57.50%;
+    border: 2px solid;
+    padding-top: 10px;
+    position: fixed;
+    border-color: black;
+    text-align: center;
+	
+}
+
+.copyright {
+	background-color: #449DCF;
+	top: 90%;
+	bottom: 0%;
+	right: 0%;
+	left: 15%;
+    border: 2px solid;
+    padding-top: 10px;
+    position: fixed;
+    border-color: black;
+    text-align: center;
+	
+}	
+
